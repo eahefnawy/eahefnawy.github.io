@@ -3804,6 +3804,23 @@ footer {
     margin: 25px;
 }
 
+.link-img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: left;
+    margin: 25px;
+}
+
+.link-img-small {
+    width: 38px;
+    height: 38px;
+    display: block;
+    float: left;
+    margin: 6px;
+    display: none;
+}
+
 .white-arrow {
     width: 32px;
     height: 50px;
@@ -3833,6 +3850,15 @@ footer {
     background-position: -420px -35px;
     margin: auto;
     margin-top: 40px
+}
+
+#me {
+    width: 180px;
+    height: 180px;
+    display: block;
+    border-radius: 90px;
+    margin: auto;
+    margin-top: 40px;
 }
 
 #footer-img {
@@ -3914,6 +3940,14 @@ footer {
     margin: 6px;
 }
 
+.link-img {
+  display: none;
+}
+
+.link-img-small {
+  display: block;
+}
+
 .white-arrow {
     width: 19px;
     height: 30px;
@@ -3935,6 +3969,12 @@ footer {
     width: 150px;
     height: 94px;
     background-position: -420px -253px;
+}
+
+#me {
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
 }
 
 #footer-img {
