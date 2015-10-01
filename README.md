@@ -1,2 +1,2 @@
 # eahefnawy.github.io
-[eahefnawy.com](http://eahefnawy.com) - My Own Website
+[eahefnawy.com](http://eahefnawy.com) - My Personal Website
